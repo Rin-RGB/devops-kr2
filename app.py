@@ -1,3 +1,4 @@
+# KR2: Жулева
 import os
 import socket
 
